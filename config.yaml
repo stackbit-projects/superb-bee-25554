@@ -5,7 +5,7 @@ params:
   header:
     title: Fjord
     tagline: Eduardo Ortiz
-    logo_img: images/Avatar.png
+    logo_img: images/enthusiastic-potato.png
     logo_img_alt: Fjord Logo
     background_img: images/header-bg.jpg
     has_nav: true
